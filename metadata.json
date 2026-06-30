@@ -1,0 +1,6 @@
+{
+  "name": "RecollectBuddy",
+  "description": "An AI-powered productivity assistant integrating Google Drive to organize tasks, files, and notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
